@@ -1,0 +1,9 @@
+There are a couple of things you need to have before you are able to fun this program the way it is intended
+
+1. openpyxl
+2. pandas
+3. sys
+4. numpy
+
+
+**All can be downloaded by typing pip3 install (modules)**
